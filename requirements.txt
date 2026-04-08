@@ -1,0 +1,6 @@
+kivy==2.3.0
+kivymd==1.2.0
+Pillow==10.2.0
+matplotlib==3.8.2
+numpy==1.26.4
+plyer==2.1.0
